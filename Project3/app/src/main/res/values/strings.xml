@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project 3</string>
+
+    <string-array name="countries_list">
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>Scotland</item>
+        <item>Belgium</item>
+        <item>Norway</item>
+    </string-array>
+
+
+</resources>
